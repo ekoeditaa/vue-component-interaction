@@ -1,6 +1,11 @@
-# vue-cli
+# vue-component-interaction
 
-> A Vue.js project
+> A Vue.js project <br>
+> A demo of different modes of interaction between vue components. <br> <br>
+> Parent -> Child via props <br>
+> Child -> Parent via custom events <br>
+> Child -> Child via event bus, and going through parents 
+
 
 ## Build Setup
 
@@ -14,6 +19,3 @@ npm run dev
 # build for production with minification
 npm run build
 ```
-
-For detailed explanation on how things work, consult the [docs for vue-loader](http://vuejs.github.io/vue-loader).
-# vue-component-interaction
